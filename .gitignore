@@ -1,2 +1,5 @@
 .idea
 venv
+wazne_hasla.txt
+*.pyc
+__pycache__
